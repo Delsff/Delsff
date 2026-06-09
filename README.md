@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-Frontend developer with **1.2 years** of commercial experience, specializing in modern React ecosystem.  
+Frontend developer with **1.5 years** of commercial experience, specializing in modern React ecosystem.  
 I focus on clean architecture, performance, and pixel-perfect UI.
 
 - 💼 Experience in **Fintech** and **Retail** domains
