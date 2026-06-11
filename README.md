@@ -1,6 +1,6 @@
 👋 Hey, I'm Danyil — Frontend Developer
 
-> Building fast, clean, and scalable web apps. Open to freelance & collaboration.
+> Building fast, clean, and scalable web apps.
 
 ---
 
